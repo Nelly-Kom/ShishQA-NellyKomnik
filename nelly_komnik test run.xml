@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+	<id>R50</id>
+	<name>Nelly Komnik</name>
+	<description></description>
+	<config></config>
+	<createdon>2021-02-24T08:50:59Z</createdon>
+		<completed>false</completed>
+		<milestone></milestone>
+	<stats>
+										<passed>
+			<percent>44</percent>
+			<count>4</count>
+		</passed>
+											<blocked>
+			<percent>0</percent>
+			<count>0</count>
+		</blocked>
+											<untested>
+			<percent>0</percent>
+			<count>0</count>
+		</untested>
+											<retest>
+			<percent>0</percent>
+			<count>0</count>
+		</retest>
+											<failed>
+			<percent>56</percent>
+			<count>5</count>
+		</failed>
+																																																				</stats>	<sections>
+		<section>
+		<name>Панфилов</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>функциональный тест</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Пудник</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Тестирование юзабилити</name>
+		<description></description>
+									</section>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Проверка работы кнопки&quot;Удалить выделенные файлы из списка&quot;</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>SHIsh</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Горяйнов</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>UI</name>
+		<description></description>
+									</section>
+		<section>
+		<name>функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Гаврилова</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функц. тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Romanyuk</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Нефункциональные тесты (интерфейс пользователя).</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты (тестирование взаимодействия).</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты (удобство использования).</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты (локализация).</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Ромащёва</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Добавление в список и копирование файлов</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Удаление файлов из списка копирования</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Тестирование автомат с напитками</name>
+		<description>Проверить функциональность автомата с напитками.</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Shanaurina</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Добавление файлов и их копирование</name>
+		<description>Проверка возможностей программы копировать файлы разных типов и объемов</description>
+									</section>
+		<section>
+		<name>Удаление файлов из списка копирования</name>
+		<description>Проверка возможностей программы удалять файлы из списка копирования</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Нефункциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Удобство использования графического интерфейса</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Ермаков</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Сущенко</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Игонин</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>GUI</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Lavrik</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Нелли К</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Проверить на удобство в использовании hardload.exe</name>
+		<description></description>
+						<tests>
+																																										<test>
+				<id>T4816</id>
+				<title>Кнопки управления окном. Свернуть (_)</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Кнопки управления окном: свернуть, развернуть, закрыть.
+1. свернуть (_) — в ранних ОС превращала окно приложения в значок на рабочем столе, в более новых — скрывает окно, оставляя кнопку на панели задач
+</preconds>
+										<steps_separated><step>
+<index>1</index><content>Нажать в верхнем правом углу кнопку свернуть (_) окно
+![](index.php?/attachments/get/174)
+
+</content><expected>при нажатии кнопки свернуть (_), диалоговое окно сворачивается  в нижнюю панель рабочего стола</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C172</caseid>
+								<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:03:13Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Нажать в верхнем правом углу кнопку свернуть (_) окно
+![](index.php?/attachments/get/174)
+
+</content><expected>при нажатии кнопки свернуть (_), диалоговое окно сворачивается  в нижнюю панель рабочего стола</expected><actual></actual><status>Passed</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																																												<test>
+				<id>T4817</id>
+				<title>Кнопки управления окном. Развернуть (□)</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Кнопки управления окном: свернуть, развернуть, закрыть.
+Развернуть (□) — позволяет развернуть окно на весь экран, или переключить приложение в полноэкранный режим
+</preconds>
+										<steps_separated><step>
+<index>1</index><content>Нажать в верхнем правом углу кнопку развернуть (□) окно
+![](index.php?/attachments/get/177)
+</content><expected>при нажатии кнопки развернуть (□), диалоговое окно открывается во весь экран</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C173</caseid>
+								<status>Failed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:26:24Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>при нажатии кнопки развернуть (□), диалоговое окно не открывается во весь экран</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Нажать в верхнем правом углу кнопку развернуть (□) окно
+![](index.php?/attachments/get/177)
+</content><expected>при нажатии кнопки развернуть (□), диалоговое окно открывается во весь экран</expected><actual></actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+															<change>
+						<createdon>2021-02-24T09:03:46Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Нажать в верхнем правом углу кнопку развернуть (□) окно
+![](index.php?/attachments/get/177)
+</content><expected>при нажатии кнопки развернуть (□), диалоговое окно открывается во весь экран</expected><actual></actual><status>Failed</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																													<test>
+				<id>T4818</id>
+				<title>Кнопки управления окном.  Закрыть (☒)</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Кнопки управления окном: свернуть, развернуть, закрыть.
+Закрыть (☒) — позволяет завершить работу с приложением, либо закрыть конкретное окно.</preconds>
+										<steps_separated><step>
+<index>1</index><content>Нажать в верхнем правом углу кнопку закрыть (☒) окно
+![](index.php?/attachments/get/178)
+</content><expected>при нажатии кнопки закрыть (☒), диалоговое окно закрывается</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C174</caseid>
+								<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:03:55Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Нажать в верхнем правом углу кнопку закрыть (☒) окно
+![](index.php?/attachments/get/178)
+</content><expected>при нажатии кнопки закрыть (☒), диалоговое окно закрывается</expected><actual></actual><status>Passed</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																													<test>
+				<id>T4819</id>
+				<title>Добавление в список и копирование файла</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Добавление в список файл и копировать его на &quot;рабочий стол&quot;</preconds>
+										<steps_separated><step>
+<index>1</index><content>нажать на кнопку &quot;...&quot; (&quot;найти и добавить файл в список&quot;)
+![](index.php?/attachments/get/179)
+</content><expected>при нажатии на кнопку &quot;...&quot;,
+открывается диалоговое окно &quot;выбор файла&quot;
+![](index.php?/attachments/get/180)
+</expected></step>
+<step>
+<index>2</index><content>выбрать файл &quot;команда&quot;
+![](index.php?/attachments/get/181)
+
+и нажать кнопку &quot;открыть&quot;
+![](index.php?/attachments/get/182)
+</content><expected>файл добавится в графу &quot;список файлов&quot;</expected></step>
+<step>
+<index>3</index><content>отметить &quot;v&quot; выбранный файл </content><expected>файл отмечен
+![](index.php?/attachments/get/183)
+</expected></step>
+<step>
+<index>4</index><content>выбрать папку, куда копировать файл,
+в правом нижнем углу кнопка &quot;...&quot;
+![](index.php?/attachments/get/184)
+</content><expected>нажать на кнопку &quot;...&quot;
+откроется окно выбора куда копировать файл
+![](index.php?/attachments/get/185)
+
+</expected></step>
+<step>
+<index>5</index><content>копировать &quot;на рабочий стол&quot;</content><expected>выбрать копировать &quot;на рабочий стол&quot; и нажать кнопку &quot;ok&quot;,
+файл появится в нижней строке (куда копировать файл) </expected></step>
+<step>
+<index>6</index><content>нажать кнопку &quot;начать грузить&quot;
+![](index.php?/attachments/get/187)
+</content><expected>файл скопирован на рабочий стол</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C175</caseid>
+								<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:05:52Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>нажать на кнопку &quot;...&quot; (&quot;найти и добавить файл в список&quot;)
+![](index.php?/attachments/get/179)
+</content><expected>при нажатии на кнопку &quot;...&quot;,
+открывается диалоговое окно &quot;выбор файла&quot;
+![](index.php?/attachments/get/180)
+</expected><actual></actual><status>Untested</status></step>
+<step>
+<index>2</index><content>выбрать файл &quot;команда&quot;
+![](index.php?/attachments/get/181)
+
+и нажать кнопку &quot;открыть&quot;
+![](index.php?/attachments/get/182)
+</content><expected>файл добавится в графу &quot;список файлов&quot;</expected><actual></actual><status>Untested</status></step>
+<step>
+<index>3</index><content>отметить &quot;v&quot; выбранный файл </content><expected>файл отмечен
+![](index.php?/attachments/get/183)
+</expected><actual></actual><status>Untested</status></step>
+<step>
+<index>4</index><content>выбрать папку, куда копировать файл,
+в правом нижнем углу кнопка &quot;...&quot;
+![](index.php?/attachments/get/184)
+</content><expected>нажать на кнопку &quot;...&quot;
+откроется окно выбора куда копировать файл
+![](index.php?/attachments/get/185)
+
+</expected><actual></actual><status>Untested</status></step>
+<step>
+<index>5</index><content>копировать &quot;на рабочий стол&quot;</content><expected>выбрать копировать &quot;на рабочий стол&quot; и нажать кнопку &quot;ok&quot;,
+файл появится в нижней строке (куда копировать файл) </expected><actual></actual><status>Untested</status></step>
+<step>
+<index>6</index><content>нажать кнопку &quot;начать грузить&quot;
+![](index.php?/attachments/get/187)
+</content><expected>файл скопирован на рабочий стол</expected><actual></actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																																												<test>
+				<id>T4820</id>
+				<title>Удаление файла из списка</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Удаление файла из списка</preconds>
+										<steps_separated><step>
+<index>1</index><content>удалить файл из списка</content><expected>1. выделить &quot;V&quot; файл который необходимо удалить
+2. нажать на кнопку &quot;х&quot; (удалить выделенные файлы из списка)
+![](index.php?/attachments/get/188)
+
+3. файл удален из списка
+</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C183</caseid>
+								<status>Failed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:30:18Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>1. при выделении значком &quot;V&quot;, файл который необходимо удалить не удаляется.
+2. для удаления, необходимо всю строку выделить синим цветом.</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>удалить файл из списка</content><expected>1. выделить &quot;V&quot; файл который необходимо удалить
+2. нажать на кнопку &quot;х&quot; (удалить выделенные файлы из списка)
+![](index.php?/attachments/get/188)
+
+3. файл удален из списка
+</expected><actual></actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+															<change>
+						<createdon>2021-02-24T09:06:21Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>удалить файл из списка</content><expected>1. выделить &quot;V&quot; файл который необходимо удалить
+2. нажать на кнопку &quot;х&quot; (удалить выделенные файлы из списка)
+![](index.php?/attachments/get/188)
+
+3. файл удален из списка
+</expected><actual></actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																													<test>
+				<id>T4821</id>
+				<title>Удаление нескольких файлов из списка</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Удалить нескольких файлов из списка</preconds>
+										<steps_separated><step>
+<index>1</index><content>удалить из списка несколько файлов одновременно</content><expected>1. выбрать &quot;v&quot; несколько файлов из списка
+2. выделить каждую строку, с удаляемым фалом, синим цветом
+![](index.php?/attachments/get/189)
+3. нажать кнопку &quot;х&quot;
+![](index.php?/attachments/get/190)
+4. в диалоговом окне &quot;удалить из списка&quot; нажать кнопку да
+5. файлы удалены из списка
+
+</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C184</caseid>
+								<status>Failed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:34:22Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>1. выбрать знаком &quot;v&quot; несколько файлов из списка и
+выделить каждую строку синим цветом.
+2. нажать кнопку удалить
+3. удаляется максимум по 2 файла</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>удалить из списка несколько файлов одновременно</content><expected>1. выбрать &quot;v&quot; несколько файлов из списка
+2. выделить каждую строку, с удаляемым фалом, синим цветом
+![](index.php?/attachments/get/189)
+3. нажать кнопку &quot;х&quot;
+![](index.php?/attachments/get/190)
+4. в диалоговом окне &quot;удалить из списка&quot; нажать кнопку да
+5. файлы удалены из списка
+
+</expected><actual></actual><status>Failed</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																																												<test>
+				<id>T4822</id>
+				<title>Выделить, для копирования, все файлы в списке одним кликом</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Выделить, для копирования, все файлы в списке одним кликом</preconds>
+										<steps_separated><step>
+<index>1</index><content>выделить все файлы в списке одним кликом (для копирования)</content><expected>нажать сочетание клавиш Ctrl+A для выделения всех файлов</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C200</caseid>
+								<status>Failed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:35:11Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>сочетание клавиш Ctrl+A для выделения всех файлов не срабатывает</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>выделить все файлы в списке одним кликом (для копирования)</content><expected>нажать сочетание клавиш Ctrl+A для выделения всех файлов</expected><actual></actual><status>Failed</status></step>
+</step_results>
+													</custom>
+											</change>
+															<change>
+						<createdon>2021-02-24T09:19:20Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>выделить все файлы в списке одним кликом (для копирования)</content><expected>нажать сочетание клавиш Ctrl+A для выделения всех файлов</expected><actual></actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																													<test>
+				<id>T4823</id>
+				<title>Остановить загрузку файлов</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Остановить загрузку файлов</preconds>
+										<steps_separated><step>
+<index>1</index><content>Остановить загрузку файлов</content><expected>1. выделить все файлы поставив галочку &quot;V&quot;
+2. нажать кнопку загрузить файл 
+3. нажать кнопку остановить загрузку файлов
+4. файлы не скопировались</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C201</caseid>
+								<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:19:35Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Остановить загрузку файлов</content><expected>1. выделить все файлы поставив галочку &quot;V&quot;
+2. нажать кнопку загрузить файл 
+3. нажать кнопку остановить загрузку файлов
+4. файлы не скопировались</expected><actual></actual><status>Passed</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																																												<test>
+				<id>T4824</id>
+				<title>Выбор типа копируемого файла (.txt, .pdf, .docx и т.д.)</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>86400</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Выбрать тип копируемого файла (.txt, .pdf, .docx и т.д.)</preconds>
+										<steps_separated><step>
+<index>1</index><content>выбрать тип копируемого файла например .docx</content><expected>1. нажать кнопку &quot;...&quot; 
+2. выбрать файл &quot;команда&quot;
+3. выбрать тип файла .docx
+![](index.php?/attachments/get/248)
+
+4. нажать кнопку открыть</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C202</caseid>
+								<status>Failed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-24T09:35:53Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>выбрать какой-то отдельный тип файла не возможно</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>выбрать тип копируемого файла например .docx</content><expected>1. нажать кнопку &quot;...&quot; 
+2. выбрать файл &quot;команда&quot;
+3. выбрать тип файла .docx
+![](index.php?/attachments/get/248)
+
+4. нажать кнопку открыть</expected><actual></actual><status>Failed</status></step>
+</step_results>
+													</custom>
+											</change>
+															<change>
+						<createdon>2021-02-24T09:19:41Z</createdon>
+																		<createdby>Нелли Комник</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>выбрать тип копируемого файла например .docx</content><expected>1. нажать кнопку &quot;...&quot; 
+2. выбрать файл &quot;команда&quot;
+3. выбрать тип файла .docx
+![](index.php?/attachments/get/248)
+
+4. нажать кнопку открыть</expected><actual></actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+</sections>
+			</section>
+		<section>
+		<name>климина</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Яхонтова</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Отрицательные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>12</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты (локализация).</name>
+		<description></description>
+									</section>
+</sections>
+</run>
