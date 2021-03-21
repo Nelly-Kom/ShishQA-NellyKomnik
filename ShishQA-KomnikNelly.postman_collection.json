@@ -298,6 +298,58 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "P2",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"var rnd = Math.random();\r",
+							"pm.environment.set(\"summary\", \"Komnik - TestIssue_\" + rnd);\r",
+							"pm.environment.set(\"description\", \"descr_\" + rnd);"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"var resBody = JSON.parse(responseBody);\r",
+							"pm.test(\"Set Isuue Id\", function () {\r",
+							"       pm.environment.set(\"issueId\", resBody.id);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fields\": {\r\n    \"project\": { \r\n      \"key\": \"TES\"\r\n    },\r\n    \"summary\": \"{{summary}}\",\r\n    \"description\": \"{{description}}\",\r\n    \"issuetype\": {\r\n      \"id\": \"{{issueType}}\"\r\n    }\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}",
+					"host": [
+						"{{URL}}"
+					]
+				}
+			},
+			"response": []
 		}
 	],
 	"auth": {
