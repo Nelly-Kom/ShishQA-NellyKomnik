@@ -1,0 +1,71 @@
+{
+	"id": "84c02f1d-f943-4756-ae60-9e1e2f6ed8a8",
+	"name": "ShishQA-KomnikNelly",
+	"timestamp": "2021-03-21T09:02:26.184Z",
+	"collection_id": "18f6403b-3d82-4673-9668-0542dc2e462b",
+	"folder_id": 0,
+	"environment_id": "8ee186a6-7f2c-4dda-a2e8-b12e30b163ec",
+	"totalPass": 0,
+	"totalFail": 1,
+	"results": [
+		{
+			"id": "60d24c79-327c-4acb-9db0-54156c1c8f3f",
+			"name": "1",
+			"url": "http://ya.ru/",
+			"time": 352,
+			"responseCode": {
+				"code": 200,
+				"name": "Ok"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				352
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "91d71e0c-cd38-4fae-adee-21e60892076e",
+			"name": "createmeta",
+			"url": "http://89.223.126.182:8080/rest/api/2/issue/createmeta",
+			"time": 198,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {
+				"Status code is 200": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				198
+			],
+			"allTests": [
+				{
+					"Status code is 200": false
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 550,
+	"collection": {
+		"requests": [
+			{
+				"id": "60d24c79-327c-4acb-9db0-54156c1c8f3f",
+				"method": "GET"
+			},
+			{
+				"id": "91d71e0c-cd38-4fae-adee-21e60892076e",
+				"method": "GET"
+			}
+		]
+	}
+}
